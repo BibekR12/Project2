@@ -6,5 +6,6 @@ import "./index.css";
 ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
     <h1>Bibek</h1>
+    <p>This is the day3 of the bootcamp</p>
   </React.StrictMode>
 );
