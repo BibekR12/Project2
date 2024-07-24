@@ -1,0 +1,36 @@
+.header {
+  background-color: #f4f4f4;
+  color: #333;
+  text-align: center;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+.DayOne {
+  background-color: #caeaf5;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+.DayTwo {
+  background-color: rgb(234, 194, 200);
+  padding: 10px;
+  margin-bottom: 10px;
+}
+.DayThree {
+  background-color: rgb(236, 236, 151);
+  padding: 10px;
+  margin-bottom: 10px;
+}
+.nav {
+  background-color: #f2f2f2;
+  padding: 10px;
+  width: 50%;
+}
+.navlist {
+  list-style-type: circle;
+  margin: 0;
+  padding: 5px;
+}
+
+.navitem {
+  font-size: medium;
+}
